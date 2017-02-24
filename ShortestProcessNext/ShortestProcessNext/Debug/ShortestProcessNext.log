@@ -1,0 +1,10 @@
+﻿빌드 시작: 2017-02-24 오후 6:36:08
+     1>2 노드의 "C:\Users\LIM\Desktop\자료\KPU\2015\1학기\운영체제\과제\팀프로젝트\수정\ShortestProcessNext\ShortestProcessNext\ShortestProcessNext.vcxproj" 프로젝트(Build 대상)입니다.
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\LIM\Desktop\자료\KPU\2015\1학기\운영체제\과제\팀프로젝트\수정\ShortestProcessNext\Debug\ShortestProcessNext.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\LIM\Desktop\자료\KPU\2015\1학기\운영체제\과제\팀프로젝트\수정\ShortestProcessNext\Debug\ShortestProcessNext.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\LIM\Desktop\자료\KPU\2015\1학기\운영체제\과제\팀프로젝트\수정\ShortestProcessNext\Debug\ShortestProcessNext.lib" /MACHINE:X86 Debug\SPNProcMgt.obj
+         ShortestProcessNext.vcxproj -> C:\Users\LIM\Desktop\자료\KPU\2015\1학기\운영체제\과제\팀프로젝트\수정\ShortestProcessNext\Debug\ShortestProcessNext.exe
+     1>"C:\Users\LIM\Desktop\자료\KPU\2015\1학기\운영체제\과제\팀프로젝트\수정\ShortestProcessNext\ShortestProcessNext\ShortestProcessNext.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.80
